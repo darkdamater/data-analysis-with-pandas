@@ -12,7 +12,7 @@ print(rainy_days)
 greater_humidity=df[df["Humidity"]>70]
 print(greater_humidity)
 
-#finding thr days when the temperature is above the average temperature 
+#finding the days when the temperature is above the average temperature 
 print(df["Temperature"].mean())
 
 high_temp=df[df["Temperature"]>df["Temperature"].mean()]

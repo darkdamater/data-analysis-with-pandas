@@ -1,0 +1,16 @@
+Date,City,Temperature,Humidity,WindSpeed,Condition
+2026-01-01,Pune,24,65,12,Sunny
+2026-01-02,Pune,26,60,10,Sunny
+2026-01-03,Pune,,75,15,Rainy
+2026-01-04,Pune,21,,18,Rainy
+2026-01-05,Pune,25,62,,Cloudy
+2026-01-06,Pune,27,58,9,Sunny
+2026-01-07,Pune,,70,14,Cloudy
+2026-01-08,Pune,20,85,20,Rainy
+2026-01-09,Pune,28,,8,Sunny
+2026-01-10,Pune,24,68,,Cloudy
+2026-01-11,Pune,29,55,7,Sunny
+2026-01-12,Pune,19,88,22,Rainy
+2026-01-13,Pune,23,72,13,Cloudy
+2026-01-14,Pune,30,52,6,Sunny
+2026-01-15,Pune,22,78,17,Rainy
