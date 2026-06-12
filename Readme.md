@@ -1,19 +1,39 @@
 # Data Analysis with Pandas
 
-This repository documents my learning journey in Pandas for Data Analysis and AI/ML preparation.
+This repository documents my learning journey in Pandas for AI/ML and Data Analysis.
 
 ## Topics Covered
+
 - DataFrames
-- Filtering
-- CSV Handling
-- Missing Values
-- GroupBy
-- Data Analysis
+- Reading CSV files
+- Data exploration
+- Filtering data
+- Statistical analysis
+- Missing value handling
+- GroupBy operations
+- Sorting data
+- Exporting datasets
 
-## Mini Projects
-- Student Performance Analyzer
+## Project
 
-## Tech Stack
+### Weather Data Analyzer
+
+Features:
+- Data cleaning using Pandas
+- Missing value handling
+- Temperature analysis
+- Weather condition statistics
+- GroupBy analysis
+- Exporting cleaned datasets
+
+## Technologies Used
+
 - Python
-- NumPy
 - Pandas
+- NumPy
+
+## Repository Structure
+
+datasets/
+basics_pandas/
+projects/
